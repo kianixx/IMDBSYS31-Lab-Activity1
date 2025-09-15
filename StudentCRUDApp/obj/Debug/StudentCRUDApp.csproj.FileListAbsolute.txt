@@ -1,0 +1,10 @@
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\bin\Debug\StudentCRUDApp.exe.config
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\bin\Debug\StudentCRUDApp.exe
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\bin\Debug\StudentCRUDApp.pdb
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\obj\Debug\StudentCRUDApp.csproj.AssemblyReference.cache
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\obj\Debug\StudentCRUDApp.Form1.resources
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\obj\Debug\StudentCRUDApp.Properties.Resources.resources
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\obj\Debug\StudentCRUDApp.csproj.GenerateResource.cache
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\obj\Debug\StudentCRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\obj\Debug\StudentCRUDApp.exe
+C:\Users\KIANA KAE\source\repos\StudentCRUDApp\obj\Debug\StudentCRUDApp.pdb
